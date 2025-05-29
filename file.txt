@@ -1,3 +1,7 @@
-Luxembourg
-Done
-Success
+my-java-app/
+├── src/
+│   └── main/
+│       └── java/
+│           └── HelloWorld.java
+├── pom.xml
+
