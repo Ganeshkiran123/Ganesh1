@@ -1,2 +1,1 @@
-Hi
-Hi
+This is my first CI project
