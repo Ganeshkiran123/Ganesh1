@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM httpd:latest
 
 COPY index.html /usr/share/html/index.html
 
